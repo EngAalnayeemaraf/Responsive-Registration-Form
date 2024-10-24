@@ -1,4 +1,4 @@
 # Responsive-Registration-Form
 
-Registration-Form live preview link:
+Registration-Form Live Preview Link:
 https://engaalnayeemaraf.github.io/Responsive-Registration-Form
